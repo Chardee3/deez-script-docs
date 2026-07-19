@@ -1,17 +1,17 @@
-# Sorun Giderme
+# Troubleshooting
 
-## Script başlamıyor
+## The script does not start
 
-* Resource klasör adını ve `ensure` satırını kontrol edin.
-* Sunucu konsolundaki hata mesajlarını inceleyin.
-* Gerekli frameworkün daha önce başladığından emin olun.
+* Verify the resource folder name and the `ensure` line.
+* Review the server console for error messages.
+* Make sure the required framework starts first.
 
-## Sohbet arayüzü görünmüyor
+## The chat interface does not appear
 
-* Eski chat kaynaklarının devre dışı olduğunu kontrol edin.
-* F8 konsolundaki istemci hatalarını inceleyin.
-* Tarayıcı önbelleğini temizleyip sunucuya yeniden bağlanın.
+* Make sure other chat resources are disabled.
+* Review the client F8 console for errors.
+* Clear the cache and reconnect to the server.
 
-## Escrow veya lisans hatası
+## Escrow or entitlement error
 
-Sunucunuzun ürünün bağlı olduğu Cfx.re hesabıyla çalıştığını doğrulayın. Sorun devam ederse hata ekranıyla birlikte destek talebi açın.
+Confirm that your server is running under the Cfx.re account that owns the product. If the issue continues, open a support ticket and attach a screenshot of the error.

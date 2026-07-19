@@ -1,10 +1,10 @@
-# Gereksinimler
+# Requirements
 
-Deez Chat V1 kurulumu öncesinde aşağıdaki gereksinimleri kontrol edin:
+Check the following requirements before installing Deez Chat V1:
 
-* Güncel FiveM server artifact
-* ESX veya QBCore framework
-* Tebex/Cfx.re hesabında geçerli ürün lisansı
-* Sunucu dosyalarına ve `server.cfg` dosyasına erişim
+* A current FiveM server artifact
+* ESX or QBCore framework
+* A valid product entitlement on your Tebex/Cfx.re account
+* Access to the server files and `server.cfg`
 
-Kullandığınız framework ve bağımlılıkların güncel sürümlerini tercih edin.
+We recommend using current versions of your framework and its dependencies.

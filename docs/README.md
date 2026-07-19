@@ -1,14 +1,14 @@
-# Deez Script Dokümantasyonu
+# Deez Script Documentation
 
-Deez Script ürünlerinin kurulum, yapılandırma ve kullanım rehberlerine hoş geldiniz.
+Welcome to the official installation, configuration, and usage guides for Deez Script products.
 
-Bu dokümantasyonda satın aldığınız scriptlerin gereksinimlerini, kurulum adımlarını, framework bağlantılarını ve sık karşılaşılan sorunların çözümlerini bulabilirsiniz.
+Here you can find product requirements, step-by-step installation instructions, framework integrations, and solutions to common issues.
 
-## Hızlı başlangıç
+## Quick start
 
-1. Sol menüden satın aldığınız ürünü seçin.
-2. **Gereksinimler** sayfasını kontrol edin.
-3. **Kurulum** adımlarını sırasıyla uygulayın.
-4. Sunucunuza uygun ayarları **Config Ayarları** bölümünden yapılandırın.
+1. Select your purchased product from the sidebar.
+2. Review its **Requirements** page.
+3. Follow the **Installation** steps in order.
+4. Adjust the available options under **Configuration** for your server.
 
-> Yardıma ihtiyacınız olursa Deez Script Discord sunucusu üzerinden destek talebi oluşturabilirsiniz.
+> If you need help, open a support ticket in the Deez Script Discord server.

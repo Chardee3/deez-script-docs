@@ -1,11 +1,11 @@
-# FiveM Escrow Nedir?
+# What is FiveM Escrow?
 
-FiveM Asset Escrow, script dosyalarının yetkisiz paylaşılmasını ve değiştirilmesini önleyen Cfx.re koruma sistemidir.
+FiveM Asset Escrow is Cfx.re's protection system for preventing unauthorized distribution and modification of script files.
 
-Escrow korumalı ürünleri çalıştırabilmek için:
+To run an escrow-protected product:
 
-* Sunucunun doğru Cfx.re hesabına bağlı olması,
-* Ürünün aynı hesap üzerinden satın alınmış veya aktarılmış olması,
-* Güncel FiveM server artifact sürümünün kullanılması gerekir.
+* Your server must be linked to the correct Cfx.re account.
+* The product must have been purchased by or transferred to that account.
+* Your server must use a current FiveM server artifact.
 
-Yapılandırmanız için gerekli `config.lua` ve benzeri dosyalar ürün desteklediği ölçüde erişilebilir bırakılır.
+Files required for supported customization, such as `config.lua`, remain accessible where applicable.

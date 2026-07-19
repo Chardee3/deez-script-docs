@@ -1,13 +1,13 @@
 # Deez Chat V1
 
-Deez Chat V1, FiveM sunucuları için modern ve özelleştirilebilir bir sohbet sistemidir.
+Deez Chat V1 is a modern and customizable chat system for FiveM servers.
 
-## Öne çıkan özellikler
+## Key features
 
-* Modern ve responsive kullanıcı arayüzü
-* ESX ve QBCore uyumluluğu
-* Özelleştirilebilir renkler ve metinler
-* Optimize istemci ve sunucu kullanımı
-* Kolay yapılandırma
+* Modern, responsive user interface
+* ESX and QBCore compatibility
+* Customizable colors and text
+* Optimized client and server usage
+* Straightforward configuration
 
-Kuruluma başlamadan önce **Gereksinimler** sayfasını okuyun.
+Read the **Requirements** page before beginning installation.
